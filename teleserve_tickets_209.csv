@@ -1,0 +1,451 @@
+ticket_id,category,text,priority
+TSI-209-0013,Roaming,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0266,Data Plan,"Billing dispute: charged for Postpaid Infinity 5GB but never subscribed, difference of Rs.249 on this month's bill.",P2
+TSI-209-0088,Roaming,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0214,Data Plan,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.799 on this month's bill.",P2
+TSI-209-0249,Customer Support,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.799 on this month's bill.",P2
+TSI-209-0097,Billing,"All towers down in Hyderabad after storm, zero connectivity for 5+ hours, emergency services unreachable.",P1
+TSI-209-0197,Roaming,"Data plan Business Fiber 200Mbps not activating after recharge, 48 hours passed, partial refund also missing.",P2
+TSI-209-0400,Device,Asking about coverage map for Hyderabad before relocating next month.,P3
+TSI-209-0146,Data Plan,"All towers down in Hyderabad after storm, zero connectivity for 60+ hours, emergency services unreachable.",P1
+TSI-209-0319,Billing,Requesting duplicate invoice copy for Postpaid Family 4GB subscription for tax filing purposes.,P3
+TSI-209-0233,Data Plan,"Internet speed on Prepaid Smart 3GB dropped to under 1Mbps for 3 days in Pune, well below promised speed.",P2
+TSI-209-0003,Network,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0447,Billing,Requesting duplicate invoice copy for Unlimited 1.5GB/day subscription for tax filing purposes.,P3
+TSI-209-0229,Customer Support,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.149 on this month's bill.",P2
+TSI-209-0150,Data Plan,"Unauthorized transaction of Rs.999 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0032,Data Plan,"Fiber service down for Bangalore business park, 20 customers affected, revenue loss ongoing.",P1
+TSI-209-0434,Customer Support,Would like to know the process to add an additional SIM under Postpaid Infinity 5GB family plan.,P3
+TSI-209-0258,Data Plan,"Internet speed on Prepaid Smart 3GB dropped to under 1Mbps for 3 days in Kolkata, well below promised speed.",P2
+TSI-209-0338,Roaming,Requesting duplicate invoice copy for Postpaid Family 4GB subscription for tax filing purposes.,P3
+TSI-209-0077,Roaming,"Unauthorized transaction of Rs.799 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0273,Network,"Device replacement request for faulty router, still under warranty, 31 days since first complaint.",P2
+TSI-209-0171,Billing,"Frequent call drops in Jaipur during peak hours, roughly 61 drops per day, affecting work calls.",P2
+TSI-209-0211,Roaming,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Ahmedabad, well below promised speed.",P2
+TSI-209-0378,Network,Requesting duplicate invoice copy for Business Fiber 200Mbps subscription for tax filing purposes.,P3
+TSI-209-0028,Service Outage,"Unauthorized transaction of Rs.799 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0185,Data Plan,"Billing dispute: charged for Postpaid Infinity 5GB but never subscribed, difference of Rs.999 on this month's bill.",P2
+TSI-209-0413,Customer Support,Asking about coverage map for Chandigarh before relocating next month.,P3
+TSI-209-0177,Customer Support,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.299 on this month's bill.",P2
+TSI-209-0143,Data Plan,"Billing system charged Rs.999 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0443,Billing,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0137,Billing,"Complete network outage in Jaipur since 42 hours, entire Jaipur zone affected, business customers unable to make calls.",P1
+TSI-209-0242,Roaming,"Internet speed on Postpaid Infinity 5GB dropped to under 1Mbps for 3 days in Hyderabad, well below promised speed.",P2
+TSI-209-0014,Service Outage,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0284,Billing,"Roaming charges of Rs.149 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0401,Service Outage,Asking about coverage map for Delhi before relocating next month.,P3
+TSI-209-0329,Roaming,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0066,Customer Support,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0280,Customer Support,"Data plan Unlimited 2GB/day not activating after recharge, 19 hours passed, partial refund also missing.",P2
+TSI-209-0293,Roaming,"Frequent call drops in Chandigarh during peak hours, roughly 34 drops per day, affecting work calls.",P2
+TSI-209-0407,Device,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0307,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0217,Network,"Data plan Unlimited 2GB/day not activating after recharge, 59 hours passed, partial refund also missing.",P2
+TSI-209-0188,Roaming,"Frequent call drops in Pune during peak hours, roughly 25 drops per day, affecting work calls.",P2
+TSI-209-0367,Network,"General query about upgrading from Business Fiber 200Mbps to a higher data plan, want to compare pricing.",P3
+TSI-209-0176,Billing,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.499 on this month's bill.",P2
+TSI-209-0031,Billing,"Billing system charged Rs.599 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0140,Roaming,"Fiber service down for Kochi business park, 15 customers affected, revenue loss ongoing.",P1
+TSI-209-0112,Device,"All towers down in Jaipur after storm, zero connectivity for 20+ hours, emergency services unreachable.",P1
+TSI-209-0405,Device,Asking about coverage map for Chennai before relocating next month.,P3
+TSI-209-0402,Billing,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0342,Network,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0336,Device,"General query about upgrading from Unlimited 1.5GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0120,Data Plan,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0147,Roaming,"Fiber service down for Ahmedabad business park, 8 customers affected, revenue loss ongoing.",P1
+TSI-209-0132,Customer Support,"Complete network outage in Pune since 10 hours, entire Pune zone affected, business customers unable to make calls.",P1
+TSI-209-0173,Customer Support,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0387,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0424,Roaming,"General query about upgrading from Unlimited 2GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0323,Network,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0381,Network,Would like to know the process to add an additional SIM under Unlimited 1.5GB/day family plan.,P3
+TSI-209-0040,Data Plan,"Fiber service down for Ahmedabad business park, 5 customers affected, revenue loss ongoing.",P1
+TSI-209-0119,Billing,"Billing system charged Rs.599 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0247,Service Outage,"Frequent call drops in Delhi during peak hours, roughly 70 drops per day, affecting work calls.",P2
+TSI-209-0029,Roaming,"All towers down in Bangalore after storm, zero connectivity for 47+ hours, emergency services unreachable.",P1
+TSI-209-0257,Data Plan,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.149 on this month's bill.",P2
+TSI-209-0049,Customer Support,"Fiber service down for Kochi business park, 15 customers affected, revenue loss ongoing.",P1
+TSI-209-0192,Device,"Internet speed on Unlimited 1.5GB/day dropped to under 1Mbps for 3 days in Kolkata, well below promised speed.",P2
+TSI-209-0007,Data Plan,"Billing system charged Rs.799 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0444,Customer Support,"General query about upgrading from Postpaid Family 4GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0203,Device,"Device replacement request for faulty router, still under warranty, 13 days since first complaint.",P2
+TSI-209-0065,Customer Support,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0403,Data Plan,Requesting duplicate invoice copy for Business Fiber 200Mbps subscription for tax filing purposes.,P3
+TSI-209-0005,Billing,"All towers down in Ahmedabad after storm, zero connectivity for 42+ hours, emergency services unreachable.",P1
+TSI-209-0123,Service Outage,"Complete network outage in Pune since 59 hours, entire Pune zone affected, business customers unable to make calls.",P1
+TSI-209-0310,Roaming,Asking about coverage map for Bangalore before relocating next month.,P3
+TSI-209-0359,Billing,Requesting duplicate invoice copy for Unlimited 1.5GB/day subscription for tax filing purposes.,P3
+TSI-209-0379,Roaming,Asking about coverage map for Chandigarh before relocating next month.,P3
+TSI-209-0420,Network,Asking about coverage map for Jaipur before relocating next month.,P3
+TSI-209-0159,Device,"Device replacement request for faulty router, still under warranty, 17 days since first complaint.",P2
+TSI-209-0026,Data Plan,"All towers down in Delhi after storm, zero connectivity for 26+ hours, emergency services unreachable.",P1
+TSI-209-0422,Device,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0092,Network,"Fiber service down for Lucknow business park, 12 customers affected, revenue loss ongoing.",P1
+TSI-209-0078,Customer Support,"Fiber service down for Bangalore business park, 15 customers affected, revenue loss ongoing.",P1
+TSI-209-0213,Data Plan,"Data plan Business Fiber 200Mbps not activating after recharge, 60 hours passed, partial refund also missing.",P2
+TSI-209-0384,Roaming,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0125,Roaming,"Complete network outage in Kolkata since 37 hours, entire Kolkata zone affected, business customers unable to make calls.",P1
+TSI-209-0317,Network,Would like to know the process to add an additional SIM under Prepaid Smart 3GB family plan.,P3
+TSI-209-0166,Service Outage,"Frequent call drops in Lucknow during peak hours, roughly 72 drops per day, affecting work calls.",P2
+TSI-209-0022,Network,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0084,Service Outage,"Billing system charged Rs.499 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0345,Data Plan,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0079,Billing,"Billing system charged Rs.249 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0096,Service Outage,"Complete network outage in Delhi since 43 hours, entire Delhi zone affected, business customers unable to make calls.",P1
+TSI-209-0362,Customer Support,Would like to know the process to add an additional SIM under Postpaid Infinity 5GB family plan.,P3
+TSI-209-0195,Roaming,"Frequent call drops in Kochi during peak hours, roughly 65 drops per day, affecting work calls.",P2
+TSI-209-0339,Device,Would like to know the process to add an additional SIM under Postpaid Infinity 5GB family plan.,P3
+TSI-209-0295,Service Outage,"Data plan Unlimited 2GB/day not activating after recharge, 16 hours passed, partial refund also missing.",P2
+TSI-209-0390,Network,Asking about coverage map for Mumbai before relocating next month.,P3
+TSI-209-0043,Data Plan,"Unauthorized transaction of Rs.799 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0341,Device,Would like to know the process to add an additional SIM under Business Fiber 200Mbps family plan.,P3
+TSI-209-0448,Roaming,Requesting duplicate invoice copy for Business Fiber 200Mbps subscription for tax filing purposes.,P3
+TSI-209-0248,Customer Support,"Roaming charges of Rs.299 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0236,Device,"Device replacement request for faulty router, still under warranty, 32 days since first complaint.",P2
+TSI-209-0391,Roaming,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0269,Billing,"Frequent call drops in Lucknow during peak hours, roughly 33 drops per day, affecting work calls.",P2
+TSI-209-0009,Device,"Fiber service down for Chandigarh business park, 20 customers affected, revenue loss ongoing.",P1
+TSI-209-0170,Roaming,"Roaming charges of Rs.799 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0019,Billing,"Billing system charged Rs.499 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0122,Network,"All towers down in Lucknow after storm, zero connectivity for 47+ hours, emergency services unreachable.",P1
+TSI-209-0268,Roaming,"Device replacement request for faulty router, still under warranty, 39 days since first complaint.",P2
+TSI-209-0167,Device,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0281,Data Plan,"Device replacement request for faulty router, still under warranty, 69 days since first complaint.",P2
+TSI-209-0169,Roaming,"Roaming charges of Rs.249 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0421,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0450,Billing,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0131,Device,"Complete network outage in Pune since 18 hours, entire Pune zone affected, business customers unable to make calls.",P1
+TSI-209-0237,Customer Support,"Data plan Unlimited 2GB/day not activating after recharge, 37 hours passed, partial refund also missing.",P2
+TSI-209-0432,Data Plan,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0226,Roaming,"Device replacement request for faulty router, still under warranty, 25 days since first complaint.",P2
+TSI-209-0154,Service Outage,"Internet speed on Unlimited 1.5GB/day dropped to under 1Mbps for 3 days in Mumbai, well below promised speed.",P2
+TSI-209-0182,Customer Support,"Data plan Unlimited 1.5GB/day not activating after recharge, 52 hours passed, partial refund also missing.",P2
+TSI-209-0435,Network,Asking about coverage map for Delhi before relocating next month.,P3
+TSI-209-0058,Network,"Complete network outage in Bangalore since 16 hours, entire Bangalore zone affected, business customers unable to make calls.",P1
+TSI-209-0264,Device,"Internet speed on Unlimited 1.5GB/day dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0208,Roaming,"Data plan Postpaid Family 4GB not activating after recharge, 58 hours passed, partial refund also missing.",P2
+TSI-209-0098,Billing,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0002,Roaming,"Billing system charged Rs.499 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0073,Data Plan,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0274,Billing,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0343,Customer Support,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0358,Service Outage,Would like to know the process to add an additional SIM under Prepaid Smart 3GB family plan.,P3
+TSI-209-0357,Roaming,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0263,Network,"Roaming charges of Rs.299 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0127,Data Plan,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0408,Network,"General query about upgrading from Unlimited 2GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0225,Device,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0057,Data Plan,"Billing system charged Rs.1499 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0385,Customer Support,Would like to know the process to add an additional SIM under Business Fiber 200Mbps family plan.,P3
+TSI-209-0034,Service Outage,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0369,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0334,Roaming,"General query about upgrading from Unlimited 2GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0318,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0426,Device,"General query about upgrading from Unlimited 1.5GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0016,Data Plan,"Unauthorized transaction of Rs.1499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0074,Roaming,"All towers down in Jaipur after storm, zero connectivity for 37+ hours, emergency services unreachable.",P1
+TSI-209-0374,Device,Requesting duplicate invoice copy for Unlimited 2GB/day subscription for tax filing purposes.,P3
+TSI-209-0409,Roaming,"General query about upgrading from Postpaid Family 4GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0282,Device,"Roaming charges of Rs.1499 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0316,Customer Support,Would like to know the process to add an additional SIM under Unlimited 1.5GB/day family plan.,P3
+TSI-209-0382,Device,Requesting duplicate invoice copy for Postpaid Infinity 5GB subscription for tax filing purposes.,P3
+TSI-209-0100,Device,"All towers down in Chandigarh after storm, zero connectivity for 6+ hours, emergency services unreachable.",P1
+TSI-209-0163,Service Outage,"Frequent call drops in Hyderabad during peak hours, roughly 68 drops per day, affecting work calls.",P2
+TSI-209-0030,Network,"Billing system charged Rs.599 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0099,Roaming,"Billing system charged Rs.249 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0228,Billing,"Frequent call drops in Chennai during peak hours, roughly 14 drops per day, affecting work calls.",P2
+TSI-209-0245,Network,"Data plan Postpaid Family 4GB not activating after recharge, 68 hours passed, partial refund also missing.",P2
+TSI-209-0158,Customer Support,"Data plan Postpaid Infinity 5GB not activating after recharge, 55 hours passed, partial refund also missing.",P2
+TSI-209-0222,Data Plan,"Internet speed on Postpaid Infinity 5GB dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0108,Network,"All towers down in Hyderabad after storm, zero connectivity for 62+ hours, emergency services unreachable.",P1
+TSI-209-0204,Roaming,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Bangalore, well below promised speed.",P2
+TSI-209-0324,Data Plan,Asking about coverage map for Chennai before relocating next month.,P3
+TSI-209-0113,Device,"Fiber service down for Jaipur business park, 12 customers affected, revenue loss ongoing.",P1
+TSI-209-0325,Service Outage,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0174,Service Outage,"Internet speed on Unlimited 1.5GB/day dropped to under 1Mbps for 3 days in Chandigarh, well below promised speed.",P2
+TSI-209-0399,Customer Support,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0368,Device,Asking about coverage map for Kolkata before relocating next month.,P3
+TSI-209-0106,Customer Support,"Complete network outage in Kochi since 14 hours, entire Kochi zone affected, business customers unable to make calls.",P1
+TSI-209-0418,Roaming,"General query about upgrading from Business Fiber 200Mbps to a higher data plan, want to compare pricing.",P3
+TSI-209-0220,Customer Support,"Billing dispute: charged for Business Fiber 200Mbps but never subscribed, difference of Rs.999 on this month's bill.",P2
+TSI-209-0265,Service Outage,"Data plan Business Fiber 200Mbps not activating after recharge, 55 hours passed, partial refund also missing.",P2
+TSI-209-0165,Data Plan,"Data plan Postpaid Infinity 5GB not activating after recharge, 32 hours passed, partial refund also missing.",P2
+TSI-209-0044,Customer Support,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0363,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0445,Device,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0429,Roaming,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0234,Service Outage,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0441,Device,Requesting duplicate invoice copy for Postpaid Infinity 5GB subscription for tax filing purposes.,P3
+TSI-209-0294,Billing,"Frequent call drops in Pune during peak hours, roughly 48 drops per day, affecting work calls.",P2
+TSI-209-0205,Billing,"Frequent call drops in Kolkata during peak hours, roughly 15 drops per day, affecting work calls.",P2
+TSI-209-0114,Billing,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0354,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0344,Roaming,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0389,Roaming,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0042,Data Plan,"All towers down in Hyderabad after storm, zero connectivity for 27+ hours, emergency services unreachable.",P1
+TSI-209-0438,Roaming,Asking about coverage map for Lucknow before relocating next month.,P3
+TSI-209-0412,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0001,Network,"All towers down in Chandigarh after storm, zero connectivity for 3+ hours, emergency services unreachable.",P1
+TSI-209-0151,Data Plan,"Frequent call drops in Lucknow during peak hours, roughly 7 drops per day, affecting work calls.",P2
+TSI-209-0180,Device,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Chennai, well below promised speed.",P2
+TSI-209-0062,Network,"Complete network outage in Ahmedabad since 16 hours, entire Ahmedabad zone affected, business customers unable to make calls.",P1
+TSI-209-0148,Network,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0076,Billing,"Complete network outage in Ahmedabad since 29 hours, entire Ahmedabad zone affected, business customers unable to make calls.",P1
+TSI-209-0425,Service Outage,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0189,Data Plan,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.499 on this month's bill.",P2
+TSI-209-0375,Billing,Would like to know the process to add an additional SIM under Unlimited 1.5GB/day family plan.,P3
+TSI-209-0243,Roaming,"Device replacement request for faulty router, still under warranty, 57 days since first complaint.",P2
+TSI-209-0290,Roaming,"Data plan Unlimited 1.5GB/day not activating after recharge, 4 hours passed, partial refund also missing.",P2
+TSI-209-0419,Service Outage,Requesting duplicate invoice copy for Postpaid Family 4GB subscription for tax filing purposes.,P3
+TSI-209-0207,Customer Support,"Frequent call drops in Kochi during peak hours, roughly 23 drops per day, affecting work calls.",P2
+TSI-209-0155,Service Outage,"Roaming charges of Rs.149 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0196,Data Plan,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.499 on this month's bill.",P2
+TSI-209-0396,Customer Support,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0071,Customer Support,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0239,Billing,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0056,Device,"Billing system charged Rs.149 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0326,Roaming,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0210,Service Outage,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0449,Roaming,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0289,Network,"Frequent call drops in Mumbai during peak hours, roughly 17 drops per day, affecting work calls.",P2
+TSI-209-0111,Network,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0278,Customer Support,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.999 on this month's bill.",P2
+TSI-209-0017,Data Plan,"Unauthorized transaction of Rs.799 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0219,Device,"Device replacement request for faulty router, still under warranty, 33 days since first complaint.",P2
+TSI-209-0046,Network,"All towers down in Ahmedabad after storm, zero connectivity for 56+ hours, emergency services unreachable.",P1
+TSI-209-0255,Roaming,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0080,Billing,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0440,Device,"General query about upgrading from Postpaid Family 4GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0303,Billing,Requesting duplicate invoice copy for Business Fiber 200Mbps subscription for tax filing purposes.,P3
+TSI-209-0035,Device,"Billing system charged Rs.249 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0041,Billing,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0394,Service Outage,Asking about coverage map for Kochi before relocating next month.,P3
+TSI-209-0038,Device,"All towers down in Jaipur after storm, zero connectivity for 25+ hours, emergency services unreachable.",P1
+TSI-209-0198,Data Plan,"Internet speed on Unlimited 1.5GB/day dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0193,Data Plan,"Internet speed on Postpaid Family 4GB dropped to under 1Mbps for 3 days in Chandigarh, well below promised speed.",P2
+TSI-209-0020,Device,"Fiber service down for Ahmedabad business park, 12 customers affected, revenue loss ongoing.",P1
+TSI-209-0050,Device,"All towers down in Lucknow after storm, zero connectivity for 42+ hours, emergency services unreachable.",P1
+TSI-209-0252,Roaming,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0433,Device,"General query about upgrading from Unlimited 2GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0082,Service Outage,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0352,Network,Would like to know the process to add an additional SIM under Business Fiber 200Mbps family plan.,P3
+TSI-209-0039,Device,"Complete network outage in Hyderabad since 13 hours, entire Hyderabad zone affected, business customers unable to make calls.",P1
+TSI-209-0164,Customer Support,"Data plan Unlimited 1.5GB/day not activating after recharge, 30 hours passed, partial refund also missing.",P2
+TSI-209-0181,Network,"Data plan Business Fiber 200Mbps not activating after recharge, 42 hours passed, partial refund also missing.",P2
+TSI-209-0348,Billing,Requesting duplicate invoice copy for Postpaid Infinity 5GB subscription for tax filing purposes.,P3
+TSI-209-0086,Data Plan,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0206,Network,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0436,Billing,Asking about coverage map for Jaipur before relocating next month.,P3
+TSI-209-0010,Customer Support,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0360,Roaming,"General query about upgrading from Prepaid Smart 3GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0331,Customer Support,Would like to know the process to add an additional SIM under Unlimited 1.5GB/day family plan.,P3
+TSI-209-0153,Billing,"Internet speed on Prepaid Smart 3GB dropped to under 1Mbps for 3 days in Kochi, well below promised speed.",P2
+TSI-209-0118,Device,"Fiber service down for Bangalore business park, 15 customers affected, revenue loss ongoing.",P1
+TSI-209-0306,Roaming,Asking about coverage map for Kochi before relocating next month.,P3
+TSI-209-0267,Customer Support,"Data plan Unlimited 2GB/day not activating after recharge, 2 hours passed, partial refund also missing.",P2
+TSI-209-0045,Service Outage,"Fiber service down for Kolkata business park, 15 customers affected, revenue loss ongoing.",P1
+TSI-209-0364,Roaming,Asking about coverage map for Bangalore before relocating next month.,P3
+TSI-209-0279,Device,"Data plan Business Fiber 200Mbps not activating after recharge, 43 hours passed, partial refund also missing.",P2
+TSI-209-0322,Roaming,"General query about upgrading from Unlimited 1.5GB/day to a higher data plan, want to compare pricing.",P3
+TSI-209-0075,Roaming,"Billing system charged Rs.149 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0094,Service Outage,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0254,Service Outage,"Frequent call drops in Bangalore during peak hours, roughly 65 drops per day, affecting work calls.",P2
+TSI-209-0376,Data Plan,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0103,Service Outage,"Unauthorized transaction of Rs.1499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0139,Customer Support,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0253,Service Outage,"Device replacement request for faulty router, still under warranty, 23 days since first complaint.",P2
+TSI-209-0276,Roaming,"Billing dispute: charged for Business Fiber 200Mbps but never subscribed, difference of Rs.299 on this month's bill.",P2
+TSI-209-0048,Device,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0109,Service Outage,"All towers down in Bangalore after storm, zero connectivity for 27+ hours, emergency services unreachable.",P1
+TSI-209-0018,Network,"Billing system charged Rs.999 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0004,Billing,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0410,Data Plan,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0089,Data Plan,"Complete network outage in Chennai since 72 hours, entire Chennai zone affected, business customers unable to make calls.",P1
+TSI-209-0340,Device,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0021,Network,"All towers down in Lucknow after storm, zero connectivity for 56+ hours, emergency services unreachable.",P1
+TSI-209-0297,Billing,"Frequent call drops in Ahmedabad during peak hours, roughly 31 drops per day, affecting work calls.",P2
+TSI-209-0347,Service Outage,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0355,Service Outage,Requesting duplicate invoice copy for Business Fiber 200Mbps subscription for tax filing purposes.,P3
+TSI-209-0330,Device,Requesting duplicate invoice copy for Postpaid Infinity 5GB subscription for tax filing purposes.,P3
+TSI-209-0283,Billing,"Data plan Business Fiber 200Mbps not activating after recharge, 14 hours passed, partial refund also missing.",P2
+TSI-209-0212,Data Plan,"Data plan Unlimited 2GB/day not activating after recharge, 36 hours passed, partial refund also missing.",P2
+TSI-209-0393,Service Outage,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0224,Customer Support,"Roaming charges of Rs.1499 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0366,Network,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0008,Network,"Unauthorized transaction of Rs.299 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0024,Roaming,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0300,Customer Support,"Frequent call drops in Kochi during peak hours, roughly 19 drops per day, affecting work calls.",P2
+TSI-209-0238,Data Plan,"Internet speed on Postpaid Infinity 5GB dropped to under 1Mbps for 3 days in Delhi, well below promised speed.",P2
+TSI-209-0093,Service Outage,"Complete network outage in Bangalore since 50 hours, entire Bangalore zone affected, business customers unable to make calls.",P1
+TSI-209-0102,Customer Support,"Complete network outage in Kochi since 32 hours, entire Kochi zone affected, business customers unable to make calls.",P1
+TSI-209-0427,Customer Support,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0218,Data Plan,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.599 on this month's bill.",P2
+TSI-209-0305,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0232,Billing,"Internet speed on Business Fiber 200Mbps dropped to under 1Mbps for 3 days in Kochi, well below promised speed.",P2
+TSI-209-0081,Roaming,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0011,Network,"All towers down in Ahmedabad after storm, zero connectivity for 41+ hours, emergency services unreachable.",P1
+TSI-209-0349,Network,Requesting duplicate invoice copy for Unlimited 1.5GB/day subscription for tax filing purposes.,P3
+TSI-209-0202,Roaming,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Jaipur, well below promised speed.",P2
+TSI-209-0216,Service Outage,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0061,Network,"All towers down in Chandigarh after storm, zero connectivity for 71+ hours, emergency services unreachable.",P1
+TSI-209-0051,Roaming,"Complete network outage in Kolkata since 29 hours, entire Kolkata zone affected, business customers unable to make calls.",P1
+TSI-209-0361,Device,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0124,Billing,"All towers down in Pune after storm, zero connectivity for 53+ hours, emergency services unreachable.",P1
+TSI-209-0371,Network,Would like to know the process to add an additional SIM under Business Fiber 200Mbps family plan.,P3
+TSI-209-0365,Service Outage,"General query about upgrading from Business Fiber 200Mbps to a higher data plan, want to compare pricing.",P3
+TSI-209-0067,Customer Support,"All towers down in Chennai after storm, zero connectivity for 10+ hours, emergency services unreachable.",P1
+TSI-209-0025,Network,"Fiber service down for Hyderabad business park, 12 customers affected, revenue loss ongoing.",P1
+TSI-209-0430,Network,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0015,Data Plan,"Complete network outage in Kochi since 25 hours, entire Kochi zone affected, business customers unable to make calls.",P1
+TSI-209-0190,Billing,"Device replacement request for faulty router, still under warranty, 13 days since first complaint.",P2
+TSI-209-0256,Network,"Roaming charges of Rs.499 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0069,Service Outage,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0191,Data Plan,"Device replacement request for faulty router, still under warranty, 24 days since first complaint.",P2
+TSI-209-0356,Device,Would like to know the process to add an additional SIM under Unlimited 2GB/day family plan.,P3
+TSI-209-0287,Service Outage,"Frequent call drops in Jaipur during peak hours, roughly 71 drops per day, affecting work calls.",P2
+TSI-209-0320,Customer Support,"General query about upgrading from Business Fiber 200Mbps to a higher data plan, want to compare pricing.",P3
+TSI-209-0308,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0285,Data Plan,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.599 on this month's bill.",P2
+TSI-209-0133,Billing,"Billing system charged Rs.999 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0199,Billing,"Roaming charges of Rs.599 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0251,Service Outage,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0392,Roaming,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0380,Customer Support,Asking about coverage map for Chandigarh before relocating next month.,P3
+TSI-209-0271,Network,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0070,Roaming,"Unauthorized transaction of Rs.999 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0386,Device,Requesting duplicate invoice copy for Unlimited 2GB/day subscription for tax filing purposes.,P3
+TSI-209-0060,Data Plan,"Fiber service down for Lucknow business park, 12 customers affected, revenue loss ongoing.",P1
+TSI-209-0246,Customer Support,"Data plan Postpaid Family 4GB not activating after recharge, 47 hours passed, partial refund also missing.",P2
+TSI-209-0027,Data Plan,"Complete network outage in Hyderabad since 53 hours, entire Hyderabad zone affected, business customers unable to make calls.",P1
+TSI-209-0250,Data Plan,"Billing dispute: charged for Postpaid Infinity 5GB but never subscribed, difference of Rs.249 on this month's bill.",P2
+TSI-209-0052,Network,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0275,Device,"Roaming charges of Rs.599 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0152,Network,"Frequent call drops in Lucknow during peak hours, roughly 64 drops per day, affecting work calls.",P2
+TSI-209-0314,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0157,Data Plan,"Billing dispute: charged for Prepaid Smart 3GB but never subscribed, difference of Rs.249 on this month's bill.",P2
+TSI-209-0107,Service Outage,"Billing system charged Rs.599 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0054,Roaming,"Complete network outage in Jaipur since 64 hours, entire Jaipur zone affected, business customers unable to make calls.",P1
+TSI-209-0301,Billing,Requesting duplicate invoice copy for Postpaid Family 4GB subscription for tax filing purposes.,P3
+TSI-209-0104,Billing,"All towers down in Bangalore after storm, zero connectivity for 21+ hours, emergency services unreachable.",P1
+TSI-209-0346,Customer Support,Would like to know the process to add an additional SIM under Prepaid Smart 3GB family plan.,P3
+TSI-209-0398,Network,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0321,Network,Requesting duplicate invoice copy for Unlimited 1.5GB/day subscription for tax filing purposes.,P3
+TSI-209-0101,Device,"Fiber service down for Kochi business park, 8 customers affected, revenue loss ongoing.",P1
+TSI-209-0241,Roaming,"Internet speed on Postpaid Infinity 5GB dropped to under 1Mbps for 3 days in Chennai, well below promised speed.",P2
+TSI-209-0437,Billing,Asking about coverage map for Jaipur before relocating next month.,P3
+TSI-209-0309,Device,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0311,Data Plan,Asking about coverage map for Hyderabad before relocating next month.,P3
+TSI-209-0053,Roaming,"Complete network outage in Chandigarh since 67 hours, entire Chandigarh zone affected, business customers unable to make calls.",P1
+TSI-209-0161,Network,"Billing dispute: charged for Unlimited 1.5GB/day but never subscribed, difference of Rs.299 on this month's bill.",P2
+TSI-209-0261,Device,"Frequent call drops in Kochi during peak hours, roughly 3 drops per day, affecting work calls.",P2
+TSI-209-0272,Roaming,"Frequent call drops in Hyderabad during peak hours, roughly 70 drops per day, affecting work calls.",P2
+TSI-209-0187,Customer Support,"Roaming charges of Rs.299 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0183,Roaming,"Frequent call drops in Delhi during peak hours, roughly 36 drops per day, affecting work calls.",P2
+TSI-209-0397,Billing,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0141,Network,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0047,Service Outage,"Unauthorized transaction of Rs.299 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0149,Service Outage,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0262,Service Outage,"Data plan Business Fiber 200Mbps not activating after recharge, 59 hours passed, partial refund also missing.",P2
+TSI-209-0128,Network,"Fiber service down for Kolkata business park, 5 customers affected, revenue loss ongoing.",P1
+TSI-209-0033,Network,"Billing system charged Rs.599 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0156,Roaming,"Device replacement request for faulty router, still under warranty, 10 days since first complaint.",P2
+TSI-209-0431,Billing,Would like to know the process to add an additional SIM under Postpaid Infinity 5GB family plan.,P3
+TSI-209-0373,Roaming,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0299,Billing,"Data plan Unlimited 2GB/day not activating after recharge, 32 hours passed, partial refund also missing.",P2
+TSI-209-0328,Customer Support,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0115,Billing,"Complete network outage in Kochi since 39 hours, entire Kochi zone affected, business customers unable to make calls.",P1
+TSI-209-0428,Billing,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0312,Network,Asking about coverage map for Jaipur before relocating next month.,P3
+TSI-209-0298,Roaming,"Frequent call drops in Pune during peak hours, roughly 62 drops per day, affecting work calls.",P2
+TSI-209-0136,Data Plan,"Complete network outage in Delhi since 69 hours, entire Delhi zone affected, business customers unable to make calls.",P1
+TSI-209-0370,Data Plan,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0186,Network,"Billing dispute: charged for Postpaid Infinity 5GB but never subscribed, difference of Rs.499 on this month's bill.",P2
+TSI-209-0036,Customer Support,"All towers down in Mumbai after storm, zero connectivity for 51+ hours, emergency services unreachable.",P1
+TSI-209-0129,Service Outage,"All towers down in Kolkata after storm, zero connectivity for 28+ hours, emergency services unreachable.",P1
+TSI-209-0335,Device,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0201,Roaming,"Roaming charges of Rs.799 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0350,Network,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0055,Network,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0415,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0083,Customer Support,"Complete network outage in Hyderabad since 54 hours, entire Hyderabad zone affected, business customers unable to make calls.",P1
+TSI-209-0337,Network,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0240,Device,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Ahmedabad, well below promised speed.",P2
+TSI-209-0377,Roaming,Requesting duplicate invoice copy for Unlimited 2GB/day subscription for tax filing purposes.,P3
+TSI-209-0059,Billing,"Complete network outage in Bangalore since 55 hours, entire Bangalore zone affected, business customers unable to make calls.",P1
+TSI-209-0168,Device,"Internet speed on Business Fiber 200Mbps dropped to under 1Mbps for 3 days in Chandigarh, well below promised speed.",P2
+TSI-209-0160,Data Plan,"Device replacement request for faulty router, still under warranty, 63 days since first complaint.",P2
+TSI-209-0068,Device,"Unauthorized transaction of Rs.249 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0439,Device,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0406,Customer Support,"General query about upgrading from Postpaid Infinity 5GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0333,Service Outage,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0244,Data Plan,"Data plan Postpaid Infinity 5GB not activating after recharge, 24 hours passed, partial refund also missing.",P2
+TSI-209-0135,Roaming,"All towers down in Mumbai after storm, zero connectivity for 59+ hours, emergency services unreachable.",P1
+TSI-209-0134,Device,"Fiber service down for Kochi business park, 20 customers affected, revenue loss ongoing.",P1
+TSI-209-0302,Service Outage,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0095,Customer Support,"All towers down in Chennai after storm, zero connectivity for 31+ hours, emergency services unreachable.",P1
+TSI-209-0209,Service Outage,"Data plan Unlimited 2GB/day not activating after recharge, 51 hours passed, partial refund also missing.",P2
+TSI-209-0304,Roaming,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0259,Billing,"Roaming charges of Rs.499 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0395,Data Plan,Asking about coverage map for Kochi before relocating next month.,P3
+TSI-209-0286,Service Outage,"Roaming charges of Rs.999 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0063,Service Outage,"Fiber service down for Ahmedabad business park, 5 customers affected, revenue loss ongoing.",P1
+TSI-209-0116,Billing,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0446,Customer Support,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0313,Roaming,Would like to know the process to add an additional SIM under Unlimited 2GB/day family plan.,P3
+TSI-209-0417,Customer Support,Requesting duplicate invoice copy for Unlimited 1.5GB/day subscription for tax filing purposes.,P3
+TSI-209-0138,Customer Support,"SIM swapped without my consent, OTPs being received by unknown number, urgent security issue.",P1
+TSI-209-0037,Customer Support,"Complete network outage in Mumbai since 38 hours, entire Mumbai zone affected, business customers unable to make calls.",P1
+TSI-209-0442,Customer Support,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0351,Roaming,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0085,Service Outage,"Billing system charged Rs.799 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0090,Billing,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0215,Customer Support,"Device replacement request for faulty router, still under warranty, 31 days since first complaint.",P2
+TSI-209-0142,Data Plan,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0121,Device,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0144,Customer Support,"Unauthorized transaction of Rs.149 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0332,Service Outage,"Feedback on customer support call experience, overall satisfied, small suggestion for wait time.",P3
+TSI-209-0383,Service Outage,Asking about coverage map for Chandigarh before relocating next month.,P3
+TSI-209-0012,Service Outage,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0231,Billing,"Frequent call drops in Delhi during peak hours, roughly 8 drops per day, affecting work calls.",P2
+TSI-209-0372,Network,Requesting duplicate invoice copy for Postpaid Family 4GB subscription for tax filing purposes.,P3
+TSI-209-0117,Network,"All towers down in Pune after storm, zero connectivity for 68+ hours, emergency services unreachable.",P1
+TSI-209-0064,Roaming,"Fiber service down for Lucknow business park, 8 customers affected, revenue loss ongoing.",P1
+TSI-209-0230,Roaming,"Billing dispute: charged for Unlimited 2GB/day but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0194,Service Outage,"Data plan Postpaid Family 4GB not activating after recharge, 48 hours passed, partial refund also missing.",P2
+TSI-209-0175,Network,"Internet speed on Unlimited 2GB/day dropped to under 1Mbps for 3 days in Ahmedabad, well below promised speed.",P2
+TSI-209-0388,Customer Support,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0200,Network,"Roaming charges of Rs.599 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0411,Data Plan,Requesting duplicate invoice copy for Prepaid Smart 3GB subscription for tax filing purposes.,P3
+TSI-209-0404,Network,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0423,Service Outage,"General query about upgrading from Prepaid Smart 3GB to a higher data plan, want to compare pricing.",P3
+TSI-209-0184,Data Plan,"Data plan Postpaid Family 4GB not activating after recharge, 65 hours passed, partial refund also missing.",P2
+TSI-209-0327,Billing,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0416,Roaming,Requesting duplicate invoice copy for Unlimited 2GB/day subscription for tax filing purposes.,P3
+TSI-209-0023,Network,"Unauthorized transaction of Rs.599 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0292,Network,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.249 on this month's bill.",P2
+TSI-209-0227,Customer Support,"Roaming charges of Rs.799 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0087,Data Plan,"Complete network outage in Chandigarh since 2 hours, entire Chandigarh zone affected, business customers unable to make calls.",P1
+TSI-209-0091,Customer Support,"Billing system charged Rs.299 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0130,Network,"Billing system charged Rs.499 twice for same cycle, unauthorized deduction, need reversal today.",P1
+TSI-209-0105,Billing,"All towers down in Chennai after storm, zero connectivity for 65+ hours, emergency services unreachable.",P1
+TSI-209-0277,Billing,"Frequent call drops in Bangalore during peak hours, roughly 29 drops per day, affecting work calls.",P2
+TSI-209-0006,Customer Support,"All towers down in Kochi after storm, zero connectivity for 67+ hours, emergency services unreachable.",P1
+TSI-209-0414,Network,"Minor issue: SMS notifications delayed by a few minutes, not urgent, just reporting.",P3
+TSI-209-0260,Device,"Frequent call drops in Kolkata during peak hours, roughly 25 drops per day, affecting work calls.",P2
+TSI-209-0291,Device,"Device replacement request for faulty router, still under warranty, 5 days since first complaint.",P2
+TSI-209-0270,Customer Support,"Device replacement request for faulty router, still under warranty, 49 days since first complaint.",P2
+TSI-209-0179,Roaming,"Billing dispute: charged for Postpaid Family 4GB but never subscribed, difference of Rs.1499 on this month's bill.",P2
+TSI-209-0221,Network,"Device replacement request for faulty router, still under warranty, 11 days since first complaint.",P2
+TSI-209-0353,Roaming,Would like to know the process to add an additional SIM under Postpaid Family 4GB family plan.,P3
+TSI-209-0145,Network,"Fiber service down for Ahmedabad business park, 5 customers affected, revenue loss ongoing.",P1
+TSI-209-0110,Billing,"Unauthorized transaction of Rs.999 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0288,Billing,"Data plan Unlimited 1.5GB/day not activating after recharge, 29 hours passed, partial refund also missing.",P2
+TSI-209-0296,Billing,"Internet speed on Prepaid Smart 3GB dropped to under 1Mbps for 3 days in Mumbai, well below promised speed.",P2
+TSI-209-0315,Roaming,Asking about coverage map for Delhi before relocating next month.,P3
+TSI-209-0178,Billing,"Roaming charges of Rs.149 applied despite international roaming pack being active, need correction.",P2
+TSI-209-0172,Service Outage,"Data plan Unlimited 2GB/day not activating after recharge, 66 hours passed, partial refund also missing.",P2
+TSI-209-0235,Customer Support,"Data plan Unlimited 1.5GB/day not activating after recharge, 17 hours passed, partial refund also missing.",P2
+TSI-209-0072,Data Plan,"Unauthorized transaction of Rs.499 detected on my account, suspect fraud, need immediate account freeze.",P1
+TSI-209-0162,Roaming,"Frequent call drops in Jaipur during peak hours, roughly 10 drops per day, affecting work calls.",P2
+TSI-209-0126,Billing,"Complete network outage in Mumbai since 63 hours, entire Mumbai zone affected, business customers unable to make calls.",P1
+TSI-209-0223,Billing,"Roaming charges of Rs.299 applied despite international roaming pack being active, need correction.",P2

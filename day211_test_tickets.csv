@@ -1,0 +1,21 @@
+ticket_id,ticket_text,true_priority,source
+T211-01,"just moved to a new flat, want to know if i can shift my existing connection here",P3,hand_written
+T211-02,"My connection has been down for 22 hours, this is affecting my work",P1,templated
+T211-03,My data speed has dropped significantly since the last plan renewal,P2,templated
+T211-04,not sure who to ask but is there a way to see all my past bills in one place,P3,hand_written
+T211-05,"I was billed Rs.2140 extra this cycle, please explain the charge",P2,templated
+T211-06,"I'd like to upgrade my plan to the family package, please share steps",P3,templated
+T211-07,"New SIM card needs activation, purchased 6 days ago",P3,templated
+T211-08,"the guy who came to fix my line yesterday said it's fixed but it's not, still no dial tone",P1,hand_written
+T211-09,"I'd like to upgrade my plan to the unlimited package, please share steps",P3,templated
+T211-10,"Emergency: fraudulent charge of Rs.2309 on my account, need immediate action",P1,templated
+T211-11,My data speed has dropped significantly since the last plan renewal,P2,templated
+T211-12,"network's been spotty on and off all week, not fully down but annoying during calls",P2,hand_written
+T211-13,"New SIM card needs activation, purchased 6 days ago",P3,templated
+T211-14,hi so like my internet just stopped working and I have a client call in 10 min pls help asap!!,P1,hand_written
+T211-15,"saw an extra 499 rupees on my statement, don't remember agreeing to any addon tbh",P2,hand_written
+T211-16,"I was billed Rs.210 extra this cycle, please explain the charge",P2,templated
+T211-17,"My connection has been down for 21 hours, this is affecting my work",P1,templated
+T211-18,"My connection has been down for 22 hours, this is affecting my work",P1,templated
+T211-19,"My connection has been down for 3 hours, this is affecting my work",P1,templated
+T211-20,My data speed has dropped significantly since the last plan renewal,P2,templated
